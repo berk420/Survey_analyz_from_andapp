@@ -1,0 +1,67 @@
+username,password,kullanıcı_yas,kullanıcı_meslek,gelir_seviyesi,yaşanıla_bolge,pdfdata,pdf_icerk,Pdfdata_kolay_words,Pdfdata_orta_words,Pdfdata_zor_words
+gir1,123,20,bekar,2000,iç anadolu,"im feeling rather rotten so im not very ambitious right now 
+im updating my blog because i feel shitty;sadness 
+i never make her separate from me because i don t ever want her to feel like i m ashamed with 
+her;sadness 
+i was feeling a little vain when i did this one;sadness 
+i was feeling as heartbroken as im sure katniss was;sadness 
+ ","sadness; 0,45","[very, when, not, her, now, me, from, because, so, make, a, like, want, was, this, i, right, my, never, with, as, to, did, little]",[ashamed],[]
+gir2,123,22,bekar,3000,iç anadolu,"i feel like my only role now would be to tear your sails with my pessimism and discontent;sadness 
+im not sure the feeling of loss will ever go away but it may dull to a sweet feeling of nostalgia at what 
+i shared in this life with my dad and the luck i had to have a dad for years;sadness 
+i also tell you in hopes that anyone who is still feeling stigmatized or ashamed of their mental health 
+issues will let go of the stigma let go of the shame;sadness 
+i don t feel guilty like i m not going to be able to cook for him;sadness ","sadness; 0,46","[but, tell, had, your, that, would, only, you, still, like, in, this, is, it, my, at, anyone, who, be, away, for, not, and, now, of, have, a, or, may, will, go, i, also, the, with, what, able, to]",[ashamed],[]
+gir3,123,24,bekar,2500,iç anadolu,"i stole a book from one of my all time favorite authors and now i feel like a rotten person;sadness 
+i start to feel emotional;sadness 
+i feel like i m defective or something for not having baby fever;sadness 
+i spent the last two weeks of school feeling miserable;sadness 
+i feel humiliated embarrassed or foolish i will remember that others have felt the same way because 
+of the same kinds of things and i will be kind and helpful and accepting;sadness ","sadness; 0,43","[that, from, because, all, last, like, my, something, be, book, for, two, not, same, and, of, now, have, a, or, will, one, i, way, the, baby, time, to]",[],[]
+gir4,123,45,bekar,10000,Akdeniiz," 
+i can feel that they are kind friendly and can understand my feelings;joy, 
+i feel transcendant and splendid;joy 
+i am feeling totally relaxed and comfy;joy 
+i feel privileged in my world;joy 
+i suppose i feel too trusting sometimes;joy 
+i feel like i am in paradise kissing those sweet lips make me feel like i dive into a magical world of 
+love;joy 
+i am feeling so happy;joy ","happy; 0,15","[can, that, into, world, are, too, and, of, me, so, make, they, those, a, in, like, i, my, am]",[],[]
+gir5,123,50,bekar,50000,Akdeniiz,"i am running at an approximate minute pace which i feel is quite acceptable;joy 
+i have a feeling that people are using it more than they need to and enjoying the feeling as it flies 
+carefree off the tongue but that is alright with me;joy 
+i do exercise i feel energetic and i am able to perform my other tasks in a very good manner;joy 
+i hate that i m sitting here at the hostel writing this and feeling so perfectly fine and than i get home 
+and it s me and my problems and a wall;joy 
+i feel like i know who most of them are by now and am starting to develop my likes and dislikes 
+though i have not been keen on the snap evictions they have seemed pretty pointless the first one to 
+go returned and the two webmates made absolutely zero impact on me so they won t be missed;joy ","happy; 0,15","[very, been, they, in, made, is, them, it, am, an, as, at, other, be, two, are, get, by, have, so, a, more, one, i, people, off, the, able, to, first, but, do, good, that, than, me, which, like, this, my, most, know, who, here, not, and, of, now, on, go, with]",[approximate],[]
+gir6,123,45,bekar,20000,Akdeniiz,"made a wonderfull new friend;joy 
+i feel that this information is vital to moving on with your day and you re not complete until you read 
+it;joy 
+i am controlling the growth of this business and every time i post work for a client i feel even more 
+determined to make it a full time business one day;joy 
+i am controlling the growth of this business and every time i post work for a client i feel even more 
+determined to make it a full time business one day;joy 
+i feel radiant bright accomplished and happy;joy ","happy; 0,14","[your, that, day, you, new, read, made, work, this, is, it, am, even, for, bright, not, and, of, make, on, a, business, more, one, i, the, with, to, time]",[],[]
+gir7,123,30,evli,20000,ege,"i just plain feel envious of the self confidence they had;anger 
+when a friend dropped a frog down my neck;anger 
+im feeling angry at someone i do something thoughtful for her and my feelings toward her 
+soften;anger 
+i feel my heart is tortured by what i have done;anger 
+i grab it from the air its smooth frame feels cold to the touch;anger 
+i was angry at my boyfriend who had promised to come to see me but did not because he spent the 
+evening with his pals;anger ","anger; 0,16","[but, had, do, when, down, his, her, me, from, because, they, its, is, come, angry, it, my, something, at, who, for, air, see, not, and, of, by, have, just, a, was, i, the, with, what, to, he, did]",[],[]
+gir8,123,40,evli,20000,ege,"i know its easy to feel a little envious of me and i cant tell you that you shouldnt;anger 
+i don t like the feeling i get when someone is even a little bit offended by some offhand remark i ve 
+made;anger 
+i get it crumble but thanks for feeling the need to tell me that im the one who is fucked up;anger 
+im grabbing a minute to post i feel greedy wrong;anger 
+i am feeling grouchy;anger ","anger; 0,13","[but, some, tell, for, bit, when, that, and, of, get, by, me, you, a, like, one, i, its, is, it, am, the, even, know, to, little, who]",[],[]
+gir9,123,50,evli,30000,ege,"i think it s the easiest time of year to feel dissatisfied;anger 
+i feel irritated and rejected without anyone doing anything or saying anything;anger 
+i already feel like i fucked up though because i dont usually eat at all in the morning;anger 
+i feel kinda appalled that she feels like she needs to explain in wide and lenghth her body measures 
+etc pp;anger 
+i climbed the hill feeling frustrated that id pretty much paced entirely wrong for this course and that a 
+factor that has never ever hampered me had made such a dent in the day;anger ","anger; 0,14","[year, had, body, that, her, me, up, because, has, all, already, like, in, made, this, it, she, never, at, anyone, for, anything, and, of, think, a, or, i, the, such, time, to]",[],[]
